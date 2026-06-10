@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+.env
+venv/
+env/
+!bank_statement.txt
+!*.docx
+!*.html
